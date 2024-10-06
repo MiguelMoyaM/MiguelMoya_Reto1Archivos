@@ -1,0 +1,3 @@
+C:\Users\migue\Downloads\MiguelMoya_Reto1_Archivos\src/peliculas.csv
+C:\Users\migue\Downloads\MiguelMoya_Reto1_Archivos\src/plantilla.txt
+C:\Users\migue\Downloads\MiguelMoya_Reto1_Archivos\src/salida
